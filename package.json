@@ -1,0 +1,24 @@
+{
+  "name": "amter-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "ant-design-vue": "^3.2.0",
+    "easy-coms-vite": "^1.0.0",
+    "http-server": "^14.1.1",
+    "vue": "^3.2.45",
+    "vuex": "4.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "unplugin-vue-components": "^0.25.1",
+    "vite": "^4.0.0"
+  }
+}
